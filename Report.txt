@@ -1,0 +1,63 @@
+Here is the list of Accommodations on the site
+Type         N  Price       Owner  Number of bed 
+Cabin        1   100,00  £  M.P.   3              
+Cabin        2   160,00  £  J.L.   9              
+Cabin        3   40,00   £  F.M.   2              
+Cabin        4   65,00   £  M.D.   4              
+Cabin        5   100,00  £  C.L.   3              
+Cabin        6   134,00  £  L.B.   6              
+Cabin        7   40,00   £  T.H.   2              
+Cabin        8   52,00   £  L.P.   3              
+Cabin        9   70,00   £  A.B.   2              
+Cabin        10  108,00  £  C.M.   5              
+Cabin        11  40,00   £  P.P.   2              
+Cabin        12  39,00   £  L.P.   2              
+Cabin        13  100,00  £  P.E.   3              
+Cabin        14  108,00  £  C.B.   3              
+Cabin        15  25,00   £  M.Z.   1              
+HotelRoom    101 50,00   £  A.A.   1              
+HotelRoom    102 70,00   £  A.S.   1              
+HotelRoom    103 86,00   £  A.C.   4              
+HotelRoom    104 200,00  £  A.D.   5              
+HotelRoom    105 70,00   £  B.A.   1              
+HotelRoom    106 98,00   £  B.B.   1              
+HotelRoom    107 120,40  £  B.C.   4              
+HotelRoom    108 280,00  £  B.D.   5              
+HotelRoom    109 110,00  £  C.A.   1              
+HotelRoom    110 154,00  £  C.B.   1              
+HotelRoom    111 189,20  £  C.C.   4              
+HotelRoom    112 440,00  £  C.D.   5              
+HotelRoom    113 283,80  £  D.A.   4              
+HotelRoom    114 660,00  £  D.B.   5              
+HotelRoom    115 440,00  £  L.B.   5              
+StudentFlat  201 1184,80 £  J.P.   5              
+StudentFlat  202 1578,50 £  S.C.D  9              
+StudentFlat  203 400,00  £  J.M.   2              
+StudentFlat  204 1383,00 £  M.C.   8              
+StudentFlat  205 797,10  £  T.A.   3              
+StudentFlat  206 692,40  £  E.H.   2              
+StudentFlat  207 922,00  £  D.G.L  7              
+StudentFlat  208 1328,50 £  P.P.C  8              
+StudentFlat  209 1200,00 £  V.C.   5              
+StudentFlat  210 738,60  £  M.M.   4              
+HotelRoom    199 110,00  £  T.F.   1              
+
+
+Here is the list of the most popular accomodations:
+Type         NÂ°	TYPE		VIEW  		 BEDS	 COST		COMMENTS
+HotelRoom    101     single          street view       1      £50,00
+HotelRoom    102     double          street view       1      £70,00
+HotelRoom    103     family          street view       4      £86,00
+HotelRoom    104     presidential    street view       5      £200,00
+HotelRoom    105     single          garden view       1      £70,00
+HotelRoom    106     double          garden view       1      £98,00
+HotelRoom    107     family          garden view       4      £120,40
+HotelRoom    108     presidential    garden view       5      £280,00
+HotelRoom    109     single          sea view          1      £110,00
+HotelRoom    110     double          sea view          1      £154,00
+HotelRoom    111     family          sea view          4      £189,20
+HotelRoom    112     presidential    sea view          5      £440,00
+HotelRoom    113     family          sea view          4      £283,80	Jacuzzi  
+HotelRoom    114     presidential    sea view          5      £660,00	Jacuzzi  
+HotelRoom    115     presidential    sea view          5      £440,00
+HotelRoom    199     single          sea view          1      £110,00
